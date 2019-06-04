@@ -14,10 +14,10 @@ docker run -p 8000:8000 -i -t django_application_image
 
 If you prefer, enter in the hello_world directory and:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
-'''
+```
 python manage.py runserver
-'''
+```
